@@ -13,3 +13,5 @@
 * Flip-Flops(T Flip-Flop) and logic gates
 * 7-Segmebt Display
 * Reset and Control logic
+# Link of the project:
+https://circuitverse.org/simulator/edit/bcd-to-7-segment-decoder-6a719709-df6e-43c5-8314-cdfdba1a9a0c
